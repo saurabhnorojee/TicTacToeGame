@@ -28,9 +28,9 @@ A fun and minimalistic two-player Tic Tac Toe game developed using *Android Stud
 
 | Gameplay |
 |----------|
-(<img width="252" height="428" alt="Screenshot_tic tac toe" src="https://github.com/user-attachments/assets/10ede780-8441-47e6-b189-2e36a31482de" />
+<img width="252" height="428" alt="Screenshot_tic tac toe" src="https://github.com/user-attachments/assets/10ede780-8441-47e6-b189-2e36a31482de" />
 
-) 
+
 
 ---
 
